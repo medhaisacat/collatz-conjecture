@@ -1,0 +1,23 @@
+{
+  "name": "collatz-conjecture",
+  "version": "1.0.0",
+  "description": "Sample node js project to solve the collatz conjecture problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhasn/collatz-conjecture.git"
+  },
+  "keywords": [
+    "collatz-conjecture",
+    "collatz"
+  ],
+  "author": "Medha S N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhasn/collatz-conjecture/issues"
+  },
+  "homepage": "https://github.com/medhasn/collatz-conjecture#readme"
+}
